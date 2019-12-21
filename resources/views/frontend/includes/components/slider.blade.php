@@ -11,7 +11,7 @@
             <div  class="slick-multiItemSlider">
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider1.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider1.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -23,7 +23,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider2.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider2.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -35,7 +35,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider3.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider3.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -47,7 +47,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider4.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider4.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -59,7 +59,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider1.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider1.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -71,7 +71,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <a href="#"><img src="images/uploads/slider2.jpg" alt="" width="285" height="437"></a>
+                        <a href="#"><img src="img/uploads/slider2.jpg" alt="" width="285" height="437"></a>
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -83,7 +83,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <img src="images/uploads/slider3.jpg" alt="" width="285" height="437">
+                        <img src="img/uploads/slider3.jpg" alt="" width="285" height="437">
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <img src="images/uploads/slider4.jpg" alt="" width="285" height="437">
+                        <img src="img/uploads/slider4.jpg" alt="" width="285" height="437">
                     </div>
                     <div class="title-in">
                         <div class="cate">
@@ -107,7 +107,7 @@
                 </div>
                 <div class="movie-item">
                     <div class="mv-img">
-                        <img src="images/uploads/slider3.jpg" alt="" width="285" height="437">
+                        <img src="img/uploads/slider3.jpg" alt="" width="285" height="437">
                     </div>
                     <div class="title-in">
                         <div class="cate">
