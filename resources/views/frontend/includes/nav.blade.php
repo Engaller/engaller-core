@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+{{-- <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
     <a href="{{ route('frontend.index') }}" class="navbar-brand">{{ app_name() }}</a>
 
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="@lang('labels.general.toggle_navigation')">
@@ -45,4 +45,6 @@
             <li class="nav-item"><a href="{{route('frontend.contact')}}" class="nav-link {{ active_class(Active::checkRoute('frontend.contact')) }}">@lang('navs.frontend.contact')</a></li>
         </ul>
     </div>
-</nav>
+</nav> --}}
+
+
