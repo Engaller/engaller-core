@@ -8,8 +8,9 @@
 @include('frontend.includes.nav')
 
 
-@include('frontend.includes.components.slider')
 
+@include('frontend.includes.components.slider')
+@include('frontend.includes.components.search')
 <div class="movie-items">
 	<div class="container">
 		<div class="row ipad-width">
