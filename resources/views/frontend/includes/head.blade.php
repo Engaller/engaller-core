@@ -1,23 +1,19 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 no-js" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 no-js" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" class="no-js">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title', app_name())</title>
-    <meta name="description" content="@yield('meta_description', 'Laravel 5 Boilerplate')">
-    <meta name="author" content="@yield('meta_author', 'Anthony Rappa')">
-    @yield('meta')
-
-    {{-- See https://laravel.com/docs/5.5/blade#stacks for usage --}}
-    @stack('before-styles')
-
-    <!-- Check if the language is set to RTL, so apply the RTL layouts -->
-    <!-- Otherwise apply the normal LTR layouts -->
-    {{ style(mix('css/frontend.css')) }}
-    {{ style('css/plugins.css') }}
-    {{ style('css/style.css') }}
-
-
-    @stack('after-styles')
+    <!-- Basic need -->
+    <title>Open Pediatrics</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
     <link rel="profile" href="#">
 
     <!--Google Font-->
@@ -25,5 +21,11 @@
     <!-- Mobile specific meta -->
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone-no">
-  
+
+    <!-- CSS files -->
+    {{ style('css/style.css') }}
+    {{ style('css/plugins.css') }}
+    {{--<link rel="stylesheet" href="css/plugins.css">--}}
+    {{--<link rel="stylesheet" href="css/style.css">--}}
+
 </head>
