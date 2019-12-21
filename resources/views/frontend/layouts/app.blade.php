@@ -19,8 +19,19 @@
         <!-- Check if the language is set to RTL, so apply the RTL layouts -->
         <!-- Otherwise apply the normal LTR layouts -->
         {{ style(mix('css/frontend.css')) }}
+        {{ style('css/plugins.css') }}
+        {{ style('css/style.css') }}
+
 
         @stack('after-styles')
+        <link rel="profile" href="#">
+
+        <!--Google Font-->
+        <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />
+        <!-- Mobile specific meta -->
+        <meta name=viewport content="width=device-width, initial-scale=1">
+        <meta name="format-detection" content="telephone-no">
+      
     </head>
     <body>
         @include('includes.partials.demo')
