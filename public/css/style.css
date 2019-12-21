@@ -4556,7 +4556,7 @@ ul {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('../img/uploads/drop-icon.png') no-repeat right 20px center;
   border-left: 1px solid #405266;
   border-right: 1px solid #405266;
   border-top: none;
@@ -5099,7 +5099,7 @@ ul {
   text-transform: none;
   border: none;
   height: 40px;
-  background: url('../images/uploads/search-bgsb.png') no-repeat right 20px center;
+  background: url('../img/uploads/search-bgsb.png') no-repeat right 20px center;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -5658,28 +5658,28 @@ ul {
 }
 /*movie single hero*/
 .mv-single-hero {
-  background: url('../images/uploads/hero-bg.jpg') no-repeat;
+  background: url('../img/uploads/hero-bg.jpg') no-repeat;
   height: 598px;
 }
 /*series single hero*/
 .sr-single-hero {
-  background: url('../images/uploads/sr-single.jpg') no-repeat;
+  background: url('../img/uploads/sr-single.jpg') no-repeat;
   height: 598px;
 }
 .hero3 {
-  background: url('../images/uploads/celeb-hero-single.jpg') no-repeat;
+  background: url('../img/uploads/celeb-hero-single.jpg') no-repeat;
   height: 538px;
 }
 .common-hero {
   height: 385px;
-  background: url('../images/uploads/user-hero-bg.jpg') no-repeat;
+  background: url('../img/uploads/user-hero-bg.jpg') no-repeat;
 }
 .common-hero:before {
   background-color: rgba(0, 0, 0, 0.4);
 }
 .user-hero {
   height: 385px;
-  background: url('../images/uploads/user-hero-bg.jpg') no-repeat;
+  background: url('../img/uploads/user-hero-bg.jpg') no-repeat;
 }
 .user-hero .hero-ct {
   padding-top: 225px;
@@ -5711,7 +5711,7 @@ ul {
   background-color: rgba(0, 0, 0, 0.4);
 }
 .landing-hero {
-  background-image: url('../images/uploads/user-hero-bg.jpg');
+  background-image: url('../img/uploads/user-hero-bg.jpg');
   box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.5);
   text-align: center;
   padding: 110px 0;
@@ -6425,7 +6425,7 @@ ul {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('../img/uploads/drop-icon.png') no-repeat right 20px center;
   background-color: #233a50;
 }
 @media (max-width: 991px) {
@@ -6684,7 +6684,7 @@ p.ceb-single {
   }
 }
 .page-single-2 {
-  background: url('../images/uploads/error-bg.jpg') no-repeat;
+  background: url('../img/uploads/error-bg.jpg') no-repeat;
   background-position: center;
   text-align: center;
   background-size: cover;
@@ -7046,7 +7046,7 @@ p.ceb-single {
   background-color: #00b9ef;
 }
 .slider {
-  background: url('../images/uploads/slider-bg.jpg') no-repeat;
+  background: url('../img/uploads/slider-bg.jpg') no-repeat;
   background-position: center;
   text-align: center;
   background-size: cover;
@@ -7131,7 +7131,7 @@ p.ceb-single {
   text-align: right;
 }
 .sliderv2 {
-  background: url('../images/uploads/slider-bg2.jpg') no-repeat;
+  background: url('../img/uploads/slider-bg2.jpg') no-repeat;
   padding-bottom: 0;
   padding-top: 180px;
   overflow: hidden;
@@ -7942,7 +7942,7 @@ header .top-search select {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('../img/uploads/drop-icon.png') no-repeat right 20px center;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -7950,7 +7950,7 @@ header .top-search input::-webkit-input-placeholder {
   color: #abb7c4;
 }
 header .top-search input {
-  background: url('../images/uploads/topsearch.png') no-repeat right 20px center;
+  background: url('../img/uploads/topsearch.png') no-repeat right 20px center;
 }
 header #nav-icon1 {
   width: 15px;
@@ -8139,7 +8139,7 @@ header#headerv3-light {
   }
 }
 footer {
-  background: url('../images/uploads/ft-bg.jpg') no-repeat;
+  background: url('../img/uploads/ft-bg.jpg') no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -8222,7 +8222,7 @@ footer .flex-parent-ft .flex-child-ft form input {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background: url('../images/uploads/search-bg.png') no-repeat right 20px center;
+  background: url('../img/uploads/search-bg.png') no-repeat right 20px center;
 }
 footer .ft-copyright {
   display: -webkit-flex;
