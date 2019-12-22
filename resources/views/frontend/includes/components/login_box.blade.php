@@ -4,18 +4,19 @@
     <div class="login-content">
         <a href="#" class="close">x</a>
         <h3>Login</h3>
-        <form method="post" action="login.php">
+        <form method="post" action="{{route('frontend.auth.login.post')}}">
+            {{csrf_field()}}
             <div class="row">
                 <label for="username">
                     Username:
-                    <input type="text" name="username" id="username" placeholder="Hugh Jackman" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{8,20}$" required="required" />
+                    <input type="text" name="email" id="username" style="text-transform:none" placeholder=""  required="required"/>
                 </label>
             </div>
 
             <div class="row">
                 <label for="password">
                     Password:
-                    <input type="password" name="password" id="password" placeholder="******" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />
+                    <input type="password" name="password" id="password" placeholder="Enter your password" required="required"/>
                 </label>
             </div>
             <div class="row">
